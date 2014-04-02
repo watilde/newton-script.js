@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/watilde/newton-script.js/issues"
   },
-  "homepage": "https://github.com/watilde/newton-script.js"
+  "homepage": "https://github.com/watilde/newton-script.js",
+  "dependencies": {
+    "esprima": "^1.1.1"
+  }
 }
