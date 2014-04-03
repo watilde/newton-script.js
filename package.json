@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/watilde/newton-script.js",
   "dependencies": {
-    "esprima": "^1.1.1"
+    "esprima": "^1.1.1",
+    "nopt": "^2.2.0"
   }
 }
