@@ -18,9 +18,7 @@
   "homepage": "https://github.com/watilde/newton-script.js",
   "dependencies": {
     "esprima": "^1.1.1",
-    "nopt": "^2.2.0"
-  },
-  "devDependencies": {
+    "nopt": "^2.2.0",
     "pegjs": "~0.8.0"
   }
 }
