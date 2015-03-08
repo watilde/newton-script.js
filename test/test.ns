@@ -1,0 +1,13 @@
+language := {
+  TypingDiscipline: 'dynamic',
+  age: func() 2008 - AppearedIn
+};
+
+NewtonScript := {
+  _proto: language,
+  Paradigm: "Prototype-based",
+  AppearedIn: 1993,
+  DesignedBy: "Walter Smith",
+  Influencedby: ["Self", "Dylan"],
+  Influenced: ["Io"]
+};
